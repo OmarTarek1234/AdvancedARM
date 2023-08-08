@@ -8,6 +8,10 @@ int main(void)
 	int g = 70;
 	
 	char ff = 99;
+	while(1)
+	{
+		
+	}
 	
 	return 0;
 }
