@@ -7,5 +7,7 @@ int main(void)
 	y = 20;
 	int g = 70;
 	
+	char ff = 99;
+	
 	return 0;
 }
