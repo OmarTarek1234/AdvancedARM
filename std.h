@@ -1,9 +1,4 @@
 
 
 
-int main(void)
-{
-	
-	
-	return 0;
-}
+#define PI 3.14
